@@ -3,9 +3,9 @@ import imagesData from "./images-data";
 import Gallery from "./Components/Gallery";
 
 function App() {
-  return(
-      <Gallery imagesData={imagesData}/>
-  )
+	return (
+		<Gallery imagesData={imagesData} />
+	)
 }
 
 export default App;
