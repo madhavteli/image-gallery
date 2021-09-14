@@ -5,4 +5,5 @@ const Image = ( imageData ) => {
 		<img title={imageData.details.title} src={imageData.details.src} alt={imageData.details.alt} />
 	);
 };
+
 export default Image;

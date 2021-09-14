@@ -1,4 +1,5 @@
 import React from "react";
+
 import imagesData from "./images-data";
 import Gallery from "./Components/Gallery";
 
